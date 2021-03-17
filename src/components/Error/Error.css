@@ -1,0 +1,10 @@
+.error{
+    text-align: center;
+}
+.error h1{
+    color: red;
+    font-size:12vh
+}
+.error h3{
+    font-size:3vh;
+}

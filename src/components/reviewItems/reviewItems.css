@@ -1,0 +1,10 @@
+
+.Singleproduct{
+    display: flex;
+    flex-direction: column;
+}
+.productDiv{
+    display: flex;
+    border-bottom: 2px solid grey;
+    width:60%
+}

@@ -1,0 +1,23 @@
+.product {
+  display: flex;
+  border-bottom: lightgrey 3px solid;
+  margin: 5px;
+  padding: 5px;
+}
+.small {
+  font-size: 25px;
+  font-weight: 800;
+  color: rgb(73, 69, 69);
+}
+.name {
+  color: blue;
+}
+.details {
+  padding-left: 20px;
+}
+button {
+  height: 40px;
+  width: 200px;
+  font-size: larger;
+  background-color: goldenrod;
+}
